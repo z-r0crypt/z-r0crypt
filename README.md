@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="left"> 
-  <h2>Visitor count<br>
+  <h2>Visitor count Since June 2023<br>
   <img src="https://profile-counter.glitch.me/z-r0crypt/count.svg" />
 </p>
